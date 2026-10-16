@@ -1,0 +1,6 @@
+# Python Caches
+__pycache__/
+*.pyc
+
+# Große Daten-Dateien (nicht ins Repo laden!)
+*.csv
